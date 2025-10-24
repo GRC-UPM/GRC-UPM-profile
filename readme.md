@@ -1,6 +1,6 @@
 # Radio Communications Group (Grupo de Radio Comunicaciones, GRC)
 
-![GRC UPM Logo](logo.png)
+![GRC UPM Logo](Logo.png)
 
 The Radio Communications Group (GRC) at Universidad Politécnica de Madrid (UPM) is a research leader with broad expertise in wireless communications and RF hardware development. Our research aligns with international standards, and we prioritize innovation and the transfer of know-how to industry.
 
